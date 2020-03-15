@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4177" started-at="2020-03-15T05:46:13Z" finished-at="2020-03-15T05:46:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4177" started-at="2020-03-15T05:46:13Z" finished-at="2020-03-15T05:46:17Z">
+      <class name="com.offlineWebsiteTest.OfflineTest">
+        <test-method status="PASS" signature="seUp()[pri:0, instance:com.offlineWebsiteTest.OfflineTest@52af6cff]" name="seUp" is-config="true" duration-ms="13568" started-at="2020-03-15T05:45:59Z" finished-at="2020-03-15T05:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method status="PASS" signature="test01_login()[pri:0, instance:com.offlineWebsiteTest.OfflineTest@52af6cff]" name="test01_login" duration-ms="2440" started-at="2020-03-15T05:46:13Z" finished-at="2020-03-15T05:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_login -->
+        <test-method status="PASS" signature="test02_addUser()[pri:0, instance:com.offlineWebsiteTest.OfflineTest@52af6cff]" name="test02_addUser" duration-ms="1704" started-at="2020-03-15T05:46:15Z" finished-at="2020-03-15T05:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02_addUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.offlineWebsiteTest.OfflineTest@52af6cff]" name="tearDown" is-config="true" duration-ms="892" started-at="2020-03-15T05:46:17Z" finished-at="2020-03-15T05:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.offlineWebsiteTest.OfflineTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
